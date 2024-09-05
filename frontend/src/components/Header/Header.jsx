@@ -5,8 +5,10 @@ const Header = () => {
   return (
     <div className='header'>
         <div className="header-contents">
-          Hii aashish Pandey
-        </div>
+            <h2>Order Your Favourite Food Here</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.  vero laudantium officia aliquam excepturi qui. Ab officia quasi animi velit praesentium!</p>
+            <button>View Menu</button>
+         </div>
     </div>
   )
 }
